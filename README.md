@@ -1,0 +1,1 @@
+This project is a well structured html page using validated(through the w3c validator) semantic html5 code.
